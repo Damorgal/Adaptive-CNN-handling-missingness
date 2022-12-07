@@ -1,4 +1,4 @@
-# Adaptive-CNN-handling-missingness
+# Adaptive CNN handling missingness in clinical time-series data
  Big Data Summer Institute 2019 at University of Michigan, Biostatistics
 
 
