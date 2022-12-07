@@ -7,4 +7,4 @@ This project is a fruit of collaboration of three undergraduate students: Yujuan
 In this repo you will find all the experiments to our final model which is in [Yujuan Fu's repository](https://github.com/velvinnn/Adaptive-CNN-handling-missing-data)
 
 # Poster
-![poster](Poster .pdf)
+![poster](https://github.com/Damorgal/Adaptive-CNN-handling-missingness/blob/main/Poster%20.pdf)
